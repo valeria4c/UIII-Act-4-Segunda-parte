@@ -7,4 +7,8 @@
 <img width="1916" height="1046" alt="image" src="https://github.com/user-attachments/assets/ce1c62a0-bbe3-46d0-ac98-0809519b78a9" />
 <img width="1920" height="903" alt="image" src="https://github.com/user-attachments/assets/8685a514-b9bc-4bab-9db3-3bd91af611bb" />
 PEDIDOS DE SERVICIO
+<img width="1919" height="1048" alt="image" src="https://github.com/user-attachments/assets/d60c0710-b153-4a42-bf9b-fcd80b495d8d" />
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/fb22b7f6-d472-4741-9d5e-264740924d2d" />
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/bfc2d3c0-27cf-41eb-97d1-8d215aa00a7d" />
+
 
